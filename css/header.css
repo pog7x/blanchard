@@ -57,7 +57,7 @@
   display: -ms-flexbox;
   display: flex;
   flex-wrap: wrap;
-  margin-right: 281px;
+  margin-right: 270px;
 }
 
 .header__first__list-item:not(:last-child) {
